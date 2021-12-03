@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinAmpliaFechaPago", "WinAmpliaFechaPago\WinAmpliaFechaPago.csproj", "{730E5F83-60D1-439C-97C0-F72A00774DBC}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupWinExtension", "..\..\Setup WinSigue\WinExtension\SetupWinExtension\SetupWinExtension.vdproj", "{77495211-2256-47A1-933B-C6660E7D9B6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730E5F83-60D1-439C-97C0-F72A00774DBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730E5F83-60D1-439C-97C0-F72A00774DBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730E5F83-60D1-439C-97C0-F72A00774DBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730E5F83-60D1-439C-97C0-F72A00774DBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77495211-2256-47A1-933B-C6660E7D9B6C}.Debug|Any CPU.ActiveCfg = Debug
+		{77495211-2256-47A1-933B-C6660E7D9B6C}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91612879-9D1C-4AED-A759-8F01FDB5AA24}
+	EndGlobalSection
+EndGlobal
